@@ -1,0 +1,8 @@
+{
+  "name": "aubiojs",
+  "version": "1.0.0",
+  "main": "build/aubio.js",
+  "repository": "https://github.com/nth-chile/aubiojs.git",
+  "author": "",
+  "license": "MIT"
+}
